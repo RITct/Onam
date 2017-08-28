@@ -33,8 +33,9 @@ Another enchanting feature of Onam is Vallamkali,the Snake Boat Race, held on th
 There is also a tradition to play games, collectively called Onakalikal, on Onam. Men go in for rigorous sports like Talappanthukali (played with ball), Ambeyyal (Archery), Kutukutu and combats called Kayyankali and Attakalam. Women indulge in cultural activities. They make intricately designed flower mats called, Pookalam in the front courtyard of house to welcome King Mahabali. Kaikotti kali and Thumbi Thullal are two graceful dances performed by women on Onam. Folk performances like Kummatti kali and Pulikali add to the zest of celebrations.
 
 ### Why this repo?
-We the members of RIT Creative team presents you a unique opportunity to celebrate this onam using **code**. Just think and find out innovative ways to celebrate this onam using code. For an inspiration please check the examples below:
+We the members of RIT Creative team presents you a unique opportunity to celebrate this onam using **code**. Code a floral carpet competition ! For an inspiration please check the examples below:
 * [Floral carpet bash script](./floral_carpet/bash/script.sh) by [Gautam Krishna R](https://www.github.com/gautamkrishnar)
+* [Floral carpet python script](./floral_carpet/bash/first.py) by [Gopikrishnan Sasikumar](https://www.github.com/GopikrishnanSasikumar)
 
  **PRs are always welcome!** :smiley: 
  
