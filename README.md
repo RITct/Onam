@@ -35,7 +35,7 @@ There is also a tradition to play games, collectively called Onakalikal, on Onam
 ### Why this repo?
 We the members of RIT Creative team presents you a unique opportunity to celebrate this onam using **code**. Code a floral carpet competition ! For an inspiration please check the examples below:
 * [Floral carpet bash script](./floral_carpet/bash/script.sh) by [Gautam Krishna R](https://www.github.com/gautamkrishnar)
-* [Floral carpet python script](./floral_carpet/bash/first.py) by [Gopikrishnan Sasikumar](https://www.github.com/GopikrishnanSasikumar)
+* [Floral carpet python script](./floral_carpet/python/first.py) by [Gopikrishnan Sasikumar](https://www.github.com/GopikrishnanSasikumar)
 
  **PRs are always welcome!** :smiley: 
  
